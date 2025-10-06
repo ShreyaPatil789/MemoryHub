@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/cors": "^2.8.19",
     "axios": "^1.12.2",
+    "cors": "^2.8.5",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.3",
     "react-tweet": "^3.2.2"
   },
   "devDependencies": {
